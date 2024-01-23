@@ -1,7 +1,3 @@
-# Author: PlanckBit
-# MIT License
-# Copyright (c) 2019 PlanckBit
-
 # import pymysql
 from DatabaseClass import DatabaseClass
 from MySQLClass import MySQLClass, MySQLEngineTypes
