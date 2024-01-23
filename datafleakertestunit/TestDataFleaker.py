@@ -1,8 +1,5 @@
 #!/usr/bin/python3
 
-# Author: PlanckBit
-# MIT License
-# Copyright (c) 2019 PlanckBit
 import os
 from DataFleakerTesterClass import DataFleakerTesterClass
 from MySQLClass import MySQLEngineTypes
