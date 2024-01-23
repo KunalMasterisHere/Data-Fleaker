@@ -1,0 +1,7 @@
+#mysql-connector-python
+mysql-connector-python-rf
+pymongo
+pytest
+pytest-cov
+coverage
+coveralls
