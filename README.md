@@ -1,4 +1,5 @@
-# DataFleaker  [![Build Status](https://travis-ci.org/planckbit/DataFleaker.svg?branch=master)](https://travis-ci.org/planckbit/DataFleaker) [![Coverage Status](https://coveralls.io/repos/github/planckbit/DataFleaker/badge.svg?branch=master&service=github)](https://coveralls.io/github/planckbit/DataFleaker?branch=master)<img align="right" width="130" height="200" src="images/datafleaker.png"> [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Python 3.6.8](https://img.shields.io/badge/python-3.6.8-blue.svg)](https://www.python.org/downloads/release/python-368/)
+# DataFleaker  [![Build Status<img align="right" width="130" height="200" src="images/datafleaker.png"> [![Python 3.6.8](https://img.shields.io/badge/python-3.6.8-blue.svg)](https://www.python.org/downloads/release/python-368/)]]
+
 
 ## DataFleaker - Instantly Convert Query Results Sets From Mongo DB to MySQL DB or Maria DB and Vice Versa.
 
@@ -38,7 +39,6 @@ in MySQL/Maria.  The conversion of MySQL/MariaDB query results to Mongo DB is al
         x86_64 x86_64 x86_64 GNU/Linux
     
 ## Get Started:
-    ~/Development/python/workroot$ git clone git@github.com:planckbit/DataFleaker.git
     ~/Development/python/workroot$ cd DataFleaker
     ~/Development/python/workroot/DataFleaker$ PYTHONPATH=~/Development/python/workroot/DataFleaker
     ~/Development/python/workroot/DataFleaker$ export PYTHONPATH
@@ -137,13 +137,3 @@ in MySQL/Maria.  The conversion of MySQL/MariaDB query results to Mongo DB is al
 <p align="left">
     <img width="950" height="450" src="images/maria_convert_to_mongo.png">
 </p>   
-   
-
-## Final Thoughts
-    If you have any questions, ideas or pull request you like to contribute and see implemented you can 
-    email me at planckbit@att.net.
-    
-## License
-
-Copyright (c) 2019 PlanckBit. MIT Licensed
-
