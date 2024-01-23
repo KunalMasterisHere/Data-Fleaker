@@ -1,9 +1,5 @@
 #!/usr/bin/python3
 
-# Author: PlanckBit
-# MIT License
-# Copyright (c) 2019 PlanckBit
-
 from DatabaseClass import DatabaseClass
 from MySQLClass import MySQLClass, MySQLEngineTypes
 from MongoDBClass import MongoDBClass
