@@ -1,7 +1,3 @@
-# Author: PlanckBit
-# MIT License
-# Copyright (c) 2019 PlanckBit
-
 import sqlite3
 from DatabaseClass import DatabaseClass
 
