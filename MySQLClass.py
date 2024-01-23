@@ -1,6 +1,4 @@
-# Author: PlanckBit
-# MIT License
-# Copyright (c) 2019 PlanckBit
+
 
 import mysql.connector
 from mysql.connector import errorcode
